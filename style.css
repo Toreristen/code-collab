@@ -2,7 +2,7 @@ body{
   background-color: khaki;
 }
 
-img {
-  display: flexbox;
-  align-content: center;
+img{
+  width: 50px;
+  height: 1px;
 }
