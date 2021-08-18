@@ -1,3 +1,8 @@
 body{
   background-color: khaki;
 }
+
+img {
+  display: flexbox;
+  align-content: center;
+}
